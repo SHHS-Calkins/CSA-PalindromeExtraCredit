@@ -1,6 +1,5 @@
 import java.util.Scanner;
 import stuff.methodClass;
-
 public class stringStuff {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
